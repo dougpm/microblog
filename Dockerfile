@@ -13,4 +13,7 @@ COPY . .
 ENV FLASK_APP=microblog
 ENV FLASK_ENV=development
 
+ENV MAIL_SERVER=localhost 
+ENV MAIL_PORT=8025
+
 CMD [ "flask", "run", "--host=0.0.0.0"]
