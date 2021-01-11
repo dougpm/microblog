@@ -1,6 +1,8 @@
 flask
+pylint-flask
 flask-wtf
 flask-sqlalchemy
+pylint-flask-sqlalchemy
 flask-migrate
 flask-login
 email-validator
