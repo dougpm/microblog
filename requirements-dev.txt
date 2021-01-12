@@ -6,3 +6,5 @@ pylint-flask-sqlalchemy
 flask-migrate
 flask-login
 email-validator
+flask-mail
+pyjwt
