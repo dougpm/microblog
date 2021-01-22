@@ -5,5 +5,6 @@
         "pylint_flask_sqlalchemy",
         "pylint_flask",                 
     ],
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "cSpell.enabled": true
 }
